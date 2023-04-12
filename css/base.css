@@ -1,0 +1,25 @@
+:root{
+    /* coloor variables */
+    --main_text_color:#1a1a1a;
+    --secondary_color:#fb651e;
+    --secondary_text_color:#e1e1e1;
+    --how_it_works:#ff9650;
+
+
+
+    
+    /* background color */
+    --primary_bg_color:#f6f6ef;
+    --secondary_dark_bg_color:#1e1909;
+    --footer_bg_color:#131313;
+    --btn_bg_color:#fb651e;
+    --btn_bg_hover_color:orange;
+    --footer_color_:#292519;
+
+
+    /* font variables */
+    --font_family:Helvetica, Arial, sans-serif;
+    --primary_font_size:40px;
+    --base_font_weight:700;
+}
+
