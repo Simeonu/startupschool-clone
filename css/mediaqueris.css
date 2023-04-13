@@ -13,7 +13,7 @@ header{
 }
 
 .learn_how p{
-    line-height: 0.9;
+    line: height 1px;
     font-size: 25px;
     line-break: loose;
 }
@@ -135,24 +135,5 @@ header{
 .footer_section{
     height: 250px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
